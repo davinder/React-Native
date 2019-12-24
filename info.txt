@@ -1,0 +1,21 @@
+// Create New React Project 
+react-native init <ProjectName>
+npm install 
+
+// Commands:
+mkdir: To create new folder
+cd <ProjectName>: To enter into folder
+cd.. : To move back from folder
+ls: List the files in folder
+rm: remove the file
+
+// iOS
+To run in ios:
+cd ios && pod install
+react-native run-ios --simulator="iPhone 6s"
+react-native run-ios
+
+
+// Android
+To run in android:
+react-native run-android
